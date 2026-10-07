@@ -1,0 +1,8 @@
+{
+  "name": "Marugoto A2-B1",
+  "description": "Master Japanese with the official Marugoto A2-B1 coursebook, lesson-by-lesson Can-do objectives, Kanji practice, Grammar guides, and progress-tracking tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
